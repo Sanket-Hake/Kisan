@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "74020701314",
+    "firebase_url": "https://tech-cultivators-default-rtdb.firebaseio.com",
+    "project_id": "tech-cultivators",
+    "storage_bucket": "tech-cultivators.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74020701314:android:2895fdd55b73c501f1609b",
+        "android_client_info": {
+          "package_name": "com.example.kisan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74020701314-anuhpfl0adqu97of5tf0j92sfto513m1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kisan",
+            "certificate_hash": "bac462ed8167d1d033fe214a2e0100fb2a6f7a5d"
+          }
+        },
+        {
+          "client_id": "74020701314-lv69kt38a8lg5cf169rquku31mkgcsou.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kisan",
+            "certificate_hash": "9114ba16f344ea16676cee0cde36b8b8e914dbbe"
+          }
+        },
+        {
+          "client_id": "74020701314-gfjq25e3ssdup6msaj57at4nfj4erc3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuBGfsu_dGx4VxalYdQZVvxKsr9pfmcSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74020701314-gfjq25e3ssdup6msaj57at4nfj4erc3l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
